@@ -25,4 +25,34 @@
         /* width: 50%; */
        height: auto;
     }
+
+    .spotlight{
+        gap: 5px !important;
+        overflow: auto;
+    }
+
+    .spotimg{
+        font-size: 12px;
+        object-fit: contain;
+    height: 250px;
+        width: 100% !important;
+    }
+    .heading p{
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .footer-nav{
+ margin-inline: 5px;
+    }
+
+    
+    .logo-img a img {
+      
+        width: 50px;
+    }
+
+    .social-media a img {
+        width: 20px;
+    }
 }

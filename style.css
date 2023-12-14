@@ -189,6 +189,8 @@ height: 310px;
 }
 
 .spotlight{
+    gap: 20px;
+    display: flex;
     align-items: baseline;
     justify-content: center;
 }
