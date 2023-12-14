@@ -1,0 +1,28 @@
+@media(max-width:480px) {
+    .navbar{
+        display: none !important;
+    }
+    header{
+        height: fit-content;
+    }
+    main{
+        margin: 0 !important;
+    }
+    .heading{
+        height: fit-content;
+    }
+    .edit div{
+        height: auto;
+    }
+    .cotegories{
+        gap: 10px !important;
+        width: 100vw;
+       display: flex;
+       overflow: auto;
+    }
+
+    .cotegories div a img {
+        /* width: 50%; */
+       height: auto;
+    }
+}
